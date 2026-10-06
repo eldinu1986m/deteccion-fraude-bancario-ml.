@@ -10,3 +10,4 @@ fraud-detection-banking-ml/
 ├── .gitignore                   # Para ignorar creditcard.csv y archivos temporales
 ├── requirements.txt             # pandas, numpy, scikit-learn, matplotlib, seaborn
 └── README.md                    # Documentación ejecutiva del proyecto
+![Visualización del Análisis](./output_2_0.png)
